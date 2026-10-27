@@ -114,8 +114,11 @@ window.TIENDA_DATOS = {
   "backend": "https://script.google.com/macros/s/AKfycbwK9FVYVSvEgk2Xus-6ZE2wYc8-_l4tBQPdEjjRQSNXihIduz8A22B9vwSxZMeS3eRs/exec",
   "negocio": {
     "ciudad": "Bogotá",
-    "cobertura": "Bogotá y alrededores. Domicilios sin costo dentro de Bogotá; entrega aproximada de 1 a 2 horas. Recogida personal disponible, dirección [POR COMPLETAR]. No realiza envíos nacionales.",
-    "horarios": []
+    "cobertura": "Bogotá y alrededores. Domicilios sin costo dentro de Bogotá; entrega aproximada de 1 a 2 horas. Recogida personal disponible en avenida carrera 70 #63-99 y carrera 57 #94a-26, Bogotá. No realiza envíos nacionales.",
+    "horarios": [
+      "[object Object]",
+      "[object Object]"
+    ]
   },
   "asistente": {
     "activo": true,
